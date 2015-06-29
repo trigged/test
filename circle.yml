@@ -1,0 +1,4 @@
+notify:
+  webhooks:
+    # A list of hook hashes, containing the url field
+     - url: http://trigged.pagekite.me/services/168dlz4pmb68ty9
