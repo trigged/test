@@ -1,4 +1,4 @@
 notify:
   webhooks:
     # A list of hook hashes, containing the url field
-     - url: http://trigged.pagekite.me/services/46z26r1nqd3btk1
+     - url: http://trigged1.dev.pubu.im/services/ev7qme2gqmx6012
