@@ -4,4 +4,4 @@ node_js:
  - "0.10"
 
 notifications:
-  webhooks: http://trigged.pagekite.me/services/ew9mgmqq7qnzi1b
+  webhooks: https://hooks.pubu.im/services/w33x8dzkzeglcz4
