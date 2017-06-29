@@ -24,7 +24,7 @@ let host = 'https://testclass.dadaabc.com/live/10557/s'
 co(function* () {
   const instance = yield phantom.create()
   let jobs =  []
-  for (let i=1; i<= 1000; i++) {
+  for (let i=1; i<= 50; i++) {
      jobs.push(fakeUser(instance))
   }
   yield jobs
