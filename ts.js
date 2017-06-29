@@ -28,6 +28,9 @@ co(function* () {
      jobs.push(fakeUser(instance))
   }
   yield jobs
+  while (true) {
+    console.log(1)
+  }
   // yield instance.exit()
 }).then(console.error)
 
